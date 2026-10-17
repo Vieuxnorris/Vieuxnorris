@@ -15,7 +15,7 @@
 ## About me
 
 - Data Engineer at **Infrabel**: big data pipelines and AI.
-- In my spare time I take games apart: Ghidra, Cheat Engine, injected C++ DLLs, hardware-breakpoint hooks, SMAPI and Unity mods.
+- In my spare time I take games apart: Ghidra, Cheat Engine, injected C++ DLLs, hardware-breakpoint hooks, SMAPI, BepInEx and Unity mods.
 - Earlier rounds: reinforcement learning agents for games (PPO, MCTS) and the 42 C curriculum.
 
 ## Tech
@@ -51,6 +51,14 @@
       <a href="https://github.com/Vieuxnorris/Ghost-recon-wildlands-hack"><b>Ghost Recon Wildlands RE</b></a><br/>
       <sub>C++ · hardware breakpoints</sub><br/>
       Offline ESP, aim assist, weapon and bullet mods, hooked through debug registers without patching code.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/Vieuxnorris/Jotunnslayer-trainer"><b>Jotunn Trainer</b></a><br/>
+      <sub>C# · BepInEx 6 · Unity IL2CPP</sub><br/>
+      In-game trainer for Jotunnslayer: Hordes of Hel: levels past the cap, skill editor, chest and enemy spawns, loot and achievements, without touching the developer console.<br/><br/>
+      <a href="https://github.com/Vieuxnorris/Jotunnslayer-trainer"><img src="https://raw.githubusercontent.com/Vieuxnorris/Jotunnslayer-trainer/HEAD/docs/screenshots/ingame.jpg" width="60%" alt="Jotunn Trainer" /></a>
     </td>
   </tr>
 </table>
