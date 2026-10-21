@@ -29,13 +29,13 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Vieuxnorris/stardew-valley-editor"><b>Stardew Valley Editor</b></a><br/>
+      <b>Stardew Valley Editor</b><br/>
       <sub>C# · SMAPI</sub><br/>
       Live save and rules editor for Stardew Valley 1.6, driven from a browser UI.<br/><br/>
       <a href="https://github.com/Vieuxnorris/stardew-valley-editor"><img src="https://raw.githubusercontent.com/Vieuxnorris/stardew-valley-editor/HEAD/docs/screenshots/farm.png" alt="Stardew Valley Editor" /></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Vieuxnorris/Death-Must-Die-Editor"><b>Death Must Die Editor</b></a><br/>
+      <b>Death Must Die Editor</b><br/>
       <sub>C# · Unity</sub><br/>
       In-game item editor and loot tweaker for Death Must Die.<br/><br/>
       <a href="https://github.com/Vieuxnorris/Death-Must-Die-Editor"><img src="https://raw.githubusercontent.com/Vieuxnorris/Death-Must-Die-Editor/HEAD/docs/screenshots/god-affix-ingame.png" alt="Death Must Die Editor" /></a>
@@ -43,19 +43,19 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Vieuxnorris/farcry-6-hack"><b>Far Cry 6 RE</b></a><br/>
+      <b>Far Cry 6 RE</b><br/>
       <sub>C++ · injected DLL</sub><br/>
       In-process DLL: skeleton ESP, aim assist and HUD overlay, built from reversing the engine.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Vieuxnorris/Ghost-recon-wildlands-hack"><b>Ghost Recon Wildlands RE</b></a><br/>
+      <b>Ghost Recon Wildlands RE</b><br/>
       <sub>C++ · hardware breakpoints</sub><br/>
       Offline ESP, aim assist, weapon and bullet mods, hooked through debug registers without patching code.
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://github.com/Vieuxnorris/Jotunnslayer-trainer"><b>Jotunn Trainer</b></a><br/>
+      <b>Jotunn Trainer</b><br/>
       <sub>C# · BepInEx 6 · Unity IL2CPP</sub><br/>
       In-game trainer for Jotunnslayer: Hordes of Hel: levels past the cap, skill editor, chest and enemy spawns, loot and achievements, without touching the developer console.<br/><br/>
       <a href="https://github.com/Vieuxnorris/Jotunnslayer-trainer"><img src="https://raw.githubusercontent.com/Vieuxnorris/Jotunnslayer-trainer/HEAD/docs/screenshots/ingame.jpg" width="60%" alt="Jotunn Trainer" /></a>
