@@ -32,13 +32,13 @@
       <b>Stardew Valley Editor</b><br/>
       <sub>C# · SMAPI</sub><br/>
       Live save and rules editor for Stardew Valley 1.6, driven from a browser UI.<br/><br/>
-      <a href="https://github.com/Vieuxnorris/stardew-valley-editor"><img src="https://raw.githubusercontent.com/Vieuxnorris/stardew-valley-editor/HEAD/docs/screenshots/farm.png" alt="Stardew Valley Editor" /></a>
+      <img src="https://raw.githubusercontent.com/Vieuxnorris/stardew-valley-editor/HEAD/docs/screenshots/farm.png" alt="Stardew Valley Editor" /></a>
     </td>
     <td width="50%" valign="top">
       <b>Death Must Die Editor</b><br/>
       <sub>C# · Unity</sub><br/>
       In-game item editor and loot tweaker for Death Must Die.<br/><br/>
-      <a href="https://github.com/Vieuxnorris/Death-Must-Die-Editor"><img src="https://raw.githubusercontent.com/Vieuxnorris/Death-Must-Die-Editor/HEAD/docs/screenshots/god-affix-ingame.png" alt="Death Must Die Editor" /></a>
+      <img src="https://raw.githubusercontent.com/Vieuxnorris/Death-Must-Die-Editor/HEAD/docs/screenshots/god-affix-ingame.png" alt="Death Must Die Editor" /></a>
     </td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@
       <b>Jotunn Trainer</b><br/>
       <sub>C# · BepInEx 6 · Unity IL2CPP</sub><br/>
       In-game trainer for Jotunnslayer: Hordes of Hel: levels past the cap, skill editor, chest and enemy spawns, loot and achievements, without touching the developer console.<br/><br/>
-      <a href="https://github.com/Vieuxnorris/Jotunnslayer-trainer"><img src="https://raw.githubusercontent.com/Vieuxnorris/Jotunnslayer-trainer/HEAD/docs/screenshots/ingame.jpg" width="60%" alt="Jotunn Trainer" /></a>
+      <img src="https://raw.githubusercontent.com/Vieuxnorris/Jotunnslayer-trainer/HEAD/docs/screenshots/ingame.jpg" width="60%" alt="Jotunn Trainer" /></a>
     </td>
   </tr>
 </table>
