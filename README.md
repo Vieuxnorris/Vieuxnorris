@@ -58,6 +58,13 @@
       In-game trainer for Jotunnslayer: Hordes of Hel: levels past the cap, skill editor, chest and enemy spawns, loot and achievements, without touching the developer console.<br/><br/>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <b><a href="https://github.com/Vieuxnorris/ring3-to-ring0">Ring3-to-Ring0</a></b><br/>
+      <sub>C · C++ · x86-64 assembly</sub><br/>
+      Tools written from scratch, from the first byte read in a file up to the kernel. Done: a PE file parser (hexdump, PE and COFF headers, section table). In progress: a data structure library (dynamic array, linked list, hash table).<br/><br/>
+    </td>
+  </tr>
 </table>
 
 <details>
