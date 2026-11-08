@@ -62,7 +62,7 @@
     <td colspan="2" valign="top">
       <b><a href="https://github.com/Vieuxnorris/ring3-to-ring0">Ring3-to-Ring0</a></b><br/>
       <sub>C · C++ · x86-64 assembly</sub><br/>
-      Tools written from scratch, from the first byte read in a file up to the kernel. Done: a PE file parser (hexdump, PE and COFF headers, section table). In progress: a data structure library (dynamic array, linked list, hash table).<br/><br/>
+      Tools written from scratch, from the first byte read in a file up to the kernel. Done: a PE file parser (hexdump, PE and COFF headers, section table). In progress: a data structure library, with a finished dynamic array (growth through <code>realloc</code>, bounds-checked reads, a test that checks 1000 values), a linked list under way and a hash table to come.<br/><br/>
     </td>
   </tr>
 </table>
