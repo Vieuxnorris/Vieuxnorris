@@ -87,17 +87,19 @@
 ## Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vieuxnorris&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vieuxnorris&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&exclude_repo=100DaysOfCode,Data_Engineer" alt="Top languages" />
+  <img height="165" src="https://raw.githubusercontent.com/Vieuxnorris/Vieuxnorris/output/stats.svg" alt="GitHub stats" />
+  <img height="165" src="https://raw.githubusercontent.com/Vieuxnorris/Vieuxnorris/output/top-langs.svg" alt="Top languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vieuxnorris&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="Streak" />
+  <img src="https://raw.githubusercontent.com/Vieuxnorris/Vieuxnorris/output/streak.svg" alt="Streak" />
 </p>
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vieuxnorris/Vieuxnorris/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vieuxnorris/Vieuxnorris/output/snake.svg">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Vieuxnorris/Vieuxnorris/output/snake.svg">
 </picture>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0b3d1f,100:0d1117&height=110&section=footer" alt="" />
